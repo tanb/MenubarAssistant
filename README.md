@@ -1,9 +1,8 @@
 # MenubarAssistant
 
-This is a browser application that can be launched from the menu bar.
-It was created to improve the efficiency of daily tasks.
-In the first version only ChatGPT is displayed.
-I plan to add more services in the future.
+This is a browser application that can be launched from the menu bar. It was created to improve the efficiency of daily tasks.
+
+In the first version only ChatGPT is displayed. I plan to add more services in the future.
 - [x] ChatGPT
 - [ ] Perprexity
 - [ ] DeepL
