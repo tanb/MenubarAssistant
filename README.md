@@ -8,6 +8,5 @@ In the first version only ChatGPT is displayed. I plan to add more services in t
 - DeepL
 - etc...
 
-![Screenshot 2023-02-26 at 23 52 25](https://user-images.githubusercontent.com/291175/221418009-078b0473-53cf-41ce-916e-67d65bb9d66a.png)
-
+<img src="https://user-images.githubusercontent.com/291175/221661905-397bbdd5-8b35-4dea-a6d8-c372e341479c.png">
 
