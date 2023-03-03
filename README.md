@@ -4,7 +4,7 @@ This is a browser application that can be launched from the menu bar. It was cre
 
 In the first version only ChatGPT is displayed. I plan to add more services in the future.
 - [x] ChatGPT
-- [ ] Perprexity
+- [ ] Perplexity
 - DeepL
 - etc...
 
