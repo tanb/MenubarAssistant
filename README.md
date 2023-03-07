@@ -5,7 +5,7 @@ This is a browser application that can be launched from the menu bar. It was cre
 In the first version only ChatGPT is displayed. I plan to add more services in the future.
 - [x] ChatGPT
 - [x] Perplexity
-- DeepL
+- [x] Poe
 - etc...
 
 <img src="https://user-images.githubusercontent.com/291175/221661905-397bbdd5-8b35-4dea-a6d8-c372e341479c.png">
